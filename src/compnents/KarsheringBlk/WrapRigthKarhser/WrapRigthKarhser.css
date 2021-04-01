@@ -1,0 +1,25 @@
+.WrapRigthKarhserImg {
+    margin-top: 52px;
+    margin-right: 100px;
+}
+
+.WrapRigthKarhserPrice {
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    margin-bottom: 73px;
+}
+.ConditionsContractWrapRigthKarhser{
+    margin-bottom: 100px;
+}
+
+.ConditionsRigthKarhser {
+    margin-right: 21px;
+}
+.ConditionsRigthKarhser, .ContractRigthKarhser {
+    color: #1B1818;
+   
+}

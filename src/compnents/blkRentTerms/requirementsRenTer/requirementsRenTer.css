@@ -1,0 +1,36 @@
+.requiremenItemRenTerWrap {
+    width: 250px;
+    /* height: 350px; */
+    border: 1px solid black;
+}
+
+.requiremenItemRenTerWrap img {
+    margin-top: 21px;
+}
+
+.regItTitle {
+    font-family: Fira Sans;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #1B1818;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 22px;
+    margin-bottom: 34px;
+    display: block;
+    height: 40px;
+}
+
+.regItDescrip {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #1B1818;
+    display: block;
+    width: 172px;
+    margin: auto;
+}

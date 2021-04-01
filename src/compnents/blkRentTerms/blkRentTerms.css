@@ -1,0 +1,40 @@
+.blkRentTerms {
+    height: 550px;
+    padding-top: 100px;
+}
+
+.rentTermsWrapItems {
+    display: flex;
+    justify-content: space-between;
+
+    margin-left: 50px;
+}
+.rentTermsWrapItems:last-child{
+    margin-right: 50px;
+}
+.rentCondiItem {
+    width: 299px;
+}
+
+.rentCondiItemTitle {
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #1B1818;
+    width: 191px;
+}
+
+.rentCondiItemTitle, .rentCondiItemDescriptionUp, .rentCondiItemDescriptionDown, .renTemButt {
+    text-align: left;
+}
+
+.rentCondiItemDescriptionUp {
+    margin-top: 31px;
+    margin-bottom: 20px;
+}
+
+.rentCondiItemDescriptionDown {
+    margin-bottom: 41px;
+}

@@ -1,0 +1,25 @@
+.KarsheringWrap {
+    width: 100%;
+    border: 1px solid reduced ;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.wrapLeftKarhser{
+    width: 50%;
+}
+.wrapRigthKarhser{
+    width: 50%;                                                                                                              
+}
+.buttomWrapLeft{
+    display: block;
+    margin-bottom: 104px;
+}
+.benefsKarshLeft{
+    display:flex;
+    justify-content:space-around;
+    margin-bottom:100px;
+}
